@@ -1,4 +1,4 @@
-###DodgeItGame_JS
+### DodgeItGame_JS
 This is my very first p5.js game.
 
 I used the following libraries:
